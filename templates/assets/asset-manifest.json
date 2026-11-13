@@ -1,0 +1,18 @@
+{
+  "identity": "pipeline-v6-character-sheet.png",
+  "approved_scene": "pipeline-v6-scene-01-locked.png",
+  "transparent_poses": {
+    "neutral": "v6-assets/hezarfen-neutral.png",
+    "step": "v6-assets/hezarfen-step.png",
+    "launch": "v6-assets/hezarfen-launch.png",
+    "wing_folded": "v6-assets/wing-folded.png",
+    "wing_open": "v6-assets/wing-open.png"
+  },
+  "background_plates": {
+    "roof_workshop": "v6-backgrounds/roof-workshop.png",
+    "roof_edge": "v6-backgrounds/roof-edge.png",
+    "istanbul_aerial": "v6-backgrounds/istanbul-aerial.png",
+    "uskudar_square": "v6-backgrounds/uskudar-square.png"
+  },
+  "usage": "Use identity and approved_scene as visual references. Use transparent poses as compositing assets and background plates as clean set layers. Preserve all identity and attachment rules in SKILL.md."
+}
